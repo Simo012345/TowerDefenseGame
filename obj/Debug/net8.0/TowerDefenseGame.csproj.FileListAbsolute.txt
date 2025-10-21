@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\bin\Debug\net8.0\TowerDefenseGame.exe
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\bin\Debug\net8.0\TowerDefenseGame.deps.json
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\bin\Debug\net8.0\TowerDefenseGame.runtimeconfig.json
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\bin\Debug\net8.0\TowerDefenseGame.dll
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\bin\Debug\net8.0\TowerDefenseGame.pdb
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.dll
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\refint\TowerDefenseGame.dll
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.pdb
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\ref\TowerDefenseGame.dll
