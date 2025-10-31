@@ -22,7 +22,7 @@ interface IAvancable
 abstract class Ennemi : IAttaquable, IRalentissable, IAvancable
 {
     public double Sante { get; set; }     // Setters publics (corrigé)
-    public double Vitesse { get; set; }   // Setters publics (corrigé)ppppp
+    public double Vitesse { get; set; }   // Setters publics (corrigé)
     public double Position { get; set; }  // Setters publics (corrigé)
     public string NomType { get; protected set; }
 
