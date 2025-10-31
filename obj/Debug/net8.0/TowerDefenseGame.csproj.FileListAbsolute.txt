@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\r
 C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.pdb
 C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.genruntimeconfig.cache
 C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\ref\TowerDefenseGame.dll
+C:\Users\Admin\source\repos\TowerDefenseGame\TowerDefenseGame\obj\Debug\net8.0\TowerDefenseGame.sourcelink.json
